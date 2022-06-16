@@ -1,0 +1,15 @@
+D:\C#\ODBC\Delegate\obj\Debug\net6.0\Delegate.csproj.AssemblyReference.cache
+D:\C#\ODBC\Delegate\obj\Debug\net6.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ODBC\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfoInputs.cache
+D:\C#\ODBC\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfo.cs
+D:\C#\ODBC\Delegate\obj\Debug\net6.0\Delegate.csproj.CoreCompileInputs.cache
+D:\C#\ODBC\Delegate\bin\Debug\net6.0\Delegate.exe
+D:\C#\ODBC\Delegate\bin\Debug\net6.0\Delegate.deps.json
+D:\C#\ODBC\Delegate\bin\Debug\net6.0\Delegate.runtimeconfig.json
+D:\C#\ODBC\Delegate\bin\Debug\net6.0\Delegate.dll
+D:\C#\ODBC\Delegate\bin\Debug\net6.0\Delegate.pdb
+D:\C#\ODBC\Delegate\obj\Debug\net6.0\Delegate.dll
+D:\C#\ODBC\Delegate\obj\Debug\net6.0\refint\Delegate.dll
+D:\C#\ODBC\Delegate\obj\Debug\net6.0\Delegate.pdb
+D:\C#\ODBC\Delegate\obj\Debug\net6.0\Delegate.genruntimeconfig.cache
+D:\C#\ODBC\Delegate\obj\Debug\net6.0\ref\Delegate.dll
